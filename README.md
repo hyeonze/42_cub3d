@@ -32,8 +32,13 @@ make
 ## 참고자료
 
 [RGB색값](https://stdbc.tistory.com/62)
+
 [수직거리계산](https://github.com/sungyongcho/ii2r/blob/master/md/6.md)
+
 [레이캐스팅](https://github.com/365kim/raycasting_tutorial)
+
 [카메라행렬](https://stdbc.tistory.com/67)
+
 [비트맵파일](https://dojang.io/mod/page/view.php?id=702)
+
 [비트맵헤더](https://stackoverflow.com/questions/2654480/writing-bmp-image-in-pure-c-c-without-other-libraries)
