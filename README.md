@@ -1,7 +1,6 @@
 # 42_cub3d
 
-![screenshot](https://user-images.githubusercontent.com/62171131/109469680-b20e1700-7ab1-11eb-90e6-da518aa277c5.jpg)
-<img src="/img/myImg.png" width="300" height="300">
+![screenshot](https://user-images.githubusercontent.com/62171131/109469680-b20e1700-7ab1-11eb-90e6-da518aa277c5.jpg){: width="100%" height="100%"}
 
 ## 학습목표
 레이캐스팅을 활용하여 1인칭 시점의 이동가능한 3D 그래픽을 표현한다.
